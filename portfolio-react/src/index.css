@@ -210,6 +210,15 @@ nav  li {
   bottom: auto;
 }
 
+.contact {
+  display: block;
+  width: 40%;
+  padding: 1rem;
+  margin: 2rem;
+  margin-left: 30%;
+  text-align: center;
+}
+
 button {
 	background: var(--primary);
 	border: 0;
