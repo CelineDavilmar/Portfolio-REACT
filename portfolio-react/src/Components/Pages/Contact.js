@@ -6,9 +6,10 @@ export default function Contact() {
         <div>
             <h1 class="title">Contact</h1>
             <div class="info-body">
-                <input class="contact" type="text" placeholder='Name' required />
-                <input class="contact" type="email" placeholder='Email' required />
-                <input class="contact" type="text" placeholder='Message' required />
+                <input class="contact" type="text" placeholder='Full Name' required />
+                <input class="contact" type="email" placeholder='Email@example.com' required />
+                <input class="contact-box" type="text" placeholder='Enter Message' required />
+                <button type="submit">Let's Connect!</button>
             </div>
         </div>
     );

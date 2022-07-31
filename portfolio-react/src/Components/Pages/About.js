@@ -1,10 +1,11 @@
 import React from 'react';
+import me from '../../assets/img/rcd.png';
 
 export default function About() {
     return (
         <box>
             <h1 class="title">About</h1>
-            {/* <img src={ } /> */}
+            <div class="me"><img src={me} /></div>
             <p class="info-body">
                 I am a graduate from the Florida International University with an interest in Software Development.
                 I possess strong interpersonal skills as well as a solid background in computer science and Full-stack
