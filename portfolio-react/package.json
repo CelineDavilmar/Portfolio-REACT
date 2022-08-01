@@ -2,7 +2,7 @@
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://CelineDavilmar.github.io/Portfolio-REACT",
+  "homepage": "https://celinedavilmar.github.io/portfolio-react",
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.3.2",
     "@testing-library/jest-dom": "^5.16.4",
