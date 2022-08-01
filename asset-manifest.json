@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-REACT/static/css/main.5a294d58.css",
+    "main.js": "/Portfolio-REACT/static/js/main.f700e38b.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio-REACT/static/js/787.aeca62f9.chunk.js",
+    "static/media/RunBuddy.png": "/Portfolio-REACT/static/media/RunBuddy.c843341718fd38bbe664.png",
+    "static/media/Workday.png": "/Portfolio-REACT/static/media/Workday.068ba14a8b782093a621.png",
+    "static/media/Password Generator.png": "/Portfolio-REACT/static/media/Password Generator.135a14621d15549d9e71.png",
+    "static/media/QuizMania.png": "/Portfolio-REACT/static/media/QuizMania.3071d56947fdb3b3f4ed.png",
+    "static/media/Weather.png": "/Portfolio-REACT/static/media/Weather.8c45b5a5744e4f0b8d38.png",
+    "static/media/todolist.png": "/Portfolio-REACT/static/media/todolist.90218709c651bff539f0.png",
+    "static/media/rcd.png": "/Portfolio-REACT/static/media/rcd.3dfa403162acbe989156.png",
+    "index.html": "/Portfolio-REACT/index.html",
+    "main.5a294d58.css.map": "/Portfolio-REACT/static/css/main.5a294d58.css.map",
+    "main.f700e38b.js.map": "/Portfolio-REACT/static/js/main.f700e38b.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio-REACT/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a294d58.css",
+    "static/js/main.f700e38b.js"
+  ]
+}
